@@ -10,9 +10,18 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "x",
+					"value": 0
+				}
 			}
 		],
+		"variables": {
+			"x": {
+				"type": "Integer"
+			}
+		},
 		"annotations": []
 	}
 }
